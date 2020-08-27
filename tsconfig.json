@@ -6,5 +6,30 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/packages/blue/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/packages/blue/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/packages/red/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/packages/red/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/packages/colors/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/packages/colors/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/demo/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/demo/tsconfig.spec.json"
+    }
+]
 }
